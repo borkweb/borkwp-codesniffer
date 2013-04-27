@@ -1,6 +1,6 @@
-gigaom-codesniffer
+borkwp-codesniffer
 ==================
 
-GigaOM Code Standards for PHP CodeSniffer
+My own WP Code Standards for PHP CodeSniffer
 
-The GigaOM coding standards uses the [WordPress standards](https://github.com/mrchrisadams/WordPress-Coding-Standards)
+This set of coding standards uses a mixture of PSR2, Squiz, and [WordPress standards](https://github.com/mrchrisadams/WordPress-Coding-Standards)
